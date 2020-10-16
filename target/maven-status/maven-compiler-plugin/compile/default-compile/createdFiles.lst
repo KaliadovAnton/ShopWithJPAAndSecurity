@@ -1,3 +1,4 @@
+com\anton\model\UserDto.class
 com\anton\repository\OrderRepository.class
 com\anton\configuration\AppInit.class
 com\anton\service\OrderService.class
@@ -7,6 +8,7 @@ com\anton\repository\OrderGoodRepo.class
 com\anton\configuration\AppConfig.class
 com\anton\model\OrderGood.class
 com\anton\repository\UserRepo.class
+com\anton\security\EncoderConfig.class
 com\anton\service\UserService.class
 com\anton\repository\OrderGoodRepository.class
 com\anton\controller\LoginController.class
@@ -15,9 +17,12 @@ com\anton\util\DBInit.class
 com\anton\model\Order.class
 com\anton\repository\GoodRepo.class
 com\anton\repository\GoodRepository.class
+com\anton\security\CustomUserPrincipal.class
+com\anton\security\UserConverter.class
 com\anton\service\GoodService.class
 com\anton\service\OrderGoodService.class
 com\anton\controller\CartController.class
 com\anton\repository\UserRepository.class
+com\anton\service\CustomUserDetailsService.class
 com\anton\controller\ShopController.class
 com\anton\model\User.class
